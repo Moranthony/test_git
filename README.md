@@ -1,7 +1,8 @@
 test_git
 ========
 
-Ma demo de git qui se passe trés bien
+Ma demo de git qui se passe trÃ©s bien
 
 Et maintenant on modifie depuis GitHub
 mais aussi depuis ma machine
+et c'est cool
